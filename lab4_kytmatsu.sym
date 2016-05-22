@@ -1,0 +1,32 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCIIOFFSET             305D
+//	DIV                     304F
+//	DLOOP                   3052
+//	GREETING                306F
+//	INT1                    3061
+//	INT1ADDR                3063
+//	INT2                    3062
+//	INT2ADDR                3064
+//	M10LOOP                 303D
+//	M2LOOP                  3044
+//	MLOOP                   304B
+//	MMASK                   3060
+//	MULT                    3049
+//	MULT10                  303B
+//	MULT10VAL               305E
+//	MULT10VAL2              305F
+//	MULT2                   3041
+//	MULTADDR1               3065
+//	MULTADDR2               3066
+//	NEWLINE                 3067
+//	NEWLINE1                306D
+//	PROMPT                  3078
+//	START                   3000
+//	STORE                   3058
+//	USERINPUT               3059
+//	USERINPUT1              305A
+//	USERINPUT3              305B
+//	USERINPUT4              305C
+//	USERSTRING              309D
+//	USERSTRING1             30BE
